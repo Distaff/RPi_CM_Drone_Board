@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CMDB_Adv")(type "KiCad")(uri "${KIPRJMOD}/CMDB_Adv.kicad_sym")(options "")(descr ""))
+)

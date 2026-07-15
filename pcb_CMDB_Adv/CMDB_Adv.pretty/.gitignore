@@ -1,0 +1,3 @@
+# Obsolete footprints kept locally but excluded from version control.
+# Filenames end in .kicad_mod, so match the OBS( prefix (OBS(*) alone would not match).
+OBS(*
